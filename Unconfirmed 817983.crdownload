@@ -1,0 +1,36 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# # My Jupyter Notebook on GitHub Repository
+
+# ## Maureen Jarau 
+# 
+# I am currently completing my graduate degree in Biological Science field. My desired occupation is Data Scientist in Healthcare industry.
+
+# *I am interested in data science because I am very passionate about discovering hidden or new insights through data to add value to the healthcare industry.*
+
+# ### The following code should print 'Hello World!'
+
+# In[1]:
+
+
+print("Hello World!")
+
+
+# | Column 1| Column 2 | Column 3|
+# |:----|:----|:----|
+# |**Hello**|*Hello again*|<a href="https://www.merriam-webster.com/dictionary/hello"> Hello Definition</a>|
+# |~~Helllo~~|`hello` | *Hello and __hello again__*|
+# 
+# 
+# - Bullet 1
+# - Bullet 2
+#  - *Bullet 2a*
+#   - *Bullet 2b*
+# - Bullet 3
+# 
+# https://www.google.com/
+# 
+# 1. Number one
+# 2. Number two
+# 3. Number three
